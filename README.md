@@ -1,46 +1,54 @@
+# Hi there, I'm Utsab! 👋
 
-<!--
-<h1 align="center">Hi there 👋</h1>
+## About Me
 
-<h3>Languages and Tools: </h3>
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="CodeIgniter" alt="CodeIgniter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-</div>
+I'm an aspiring machine learning engineer with a strong passion for developing intelligent systems and applying machine learning algorithms to solve real-world problems. I enjoy working with data, building predictive models, and deploying machine learning solutions. Currently, I'm focused on enhancing my skills through personal projects and continuous learning.
 
-<hr />
+- 🎓 Bachelor of Science (Honours) in Computing (Software Engineering)
+- 🌱 Currently learning advanced machine learning techniques and deep learning
+- 👨‍💻 Working on building a portfolio of machine learning projects using Python and popular ML libraries
+- 💬 Ask me about machine learning, data analysis, and open source contributions
+- 📫 How to reach me: utsabdahal190@gmail.com
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=meutsabdahal&theme=dark&background=000000)](https://git.io/streak-stats)
+## Skills
 
+Here are some of the technologies and tools I work with:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meutsabdahal&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-<hr />
+### Frameworks and Libraries
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3A528A?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white)
 
+### Tools and Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**meutsabdahal/meutsabdahal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Achievements and Certifications
 
-Here are some ideas to get you started:
+- [Data Science Machine Learning with Python]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- 
+## GitHub Stats and Most Used Languages
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=meutsabdahal&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meutsabdahal&layout=compact&theme=radical)
+
+## Commit Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meutsabdahal&theme=dark)](https://git.io/streak-stats)
+
+## Connect with Me
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/meutsabdahal/)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utsabdahal190@gmail.com)
+
+## Quote of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
