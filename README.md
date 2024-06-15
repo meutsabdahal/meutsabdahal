@@ -28,8 +28,8 @@ Here are some of the technologies and tools I work with:
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white)
 
 ### Tools and Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=merko)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=merko)
 
 ## Achievements and Certifications
 
@@ -37,12 +37,12 @@ Here are some of the technologies and tools I work with:
 
 ## GitHub Stats and Most Used Languages
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=meutsabdahal&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meutsabdahal&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=meutsabdahal&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meutsabdahal&layout=compact&theme=tokyonight)
 
 ## Commit Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meutsabdahal&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meutsabdahal&theme=tokyonight)](https://git.io/streak-stats)
 
 ## Connect with Me
 
