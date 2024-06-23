@@ -31,25 +31,20 @@ Here are some of the technologies and tools I work with:
 ### Tools and Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=merko)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=merko)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black)
 
 ## Achievements and Certifications
 
 - [Data Science Machine Learning with Python]()
 
-## GitHub Stats and Most Used Languages
-
+## GitHub Stats 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=meutsabdahal&show_icons=true&theme=tokyonight)
+
+## Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meutsabdahal&layout=compact&theme=tokyonight)
-
-## Commit Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meutsabdahal&theme=tokyonight)](https://git.io/streak-stats)
 
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/meutsabdahal/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utsabdahal190@gmail.com)
 
-## Quote of the Day
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
